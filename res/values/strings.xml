@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Promact Info</string>
+    <string name="login_img_desc">login background banner</string>
+    <string name="type">Login</string>
+    <string name="user_icon">"email id "</string>
+    <string name="user_email">Enter Email Id</string>
+    <string name="password_icon">password icon</string>
+    <string name="password">Enter Password</string>
+    <string name="reg_mess">New to this app ?</string>
+    <string name="google">google link</string>
+    <string name="facebook">facebook login</string>
+    <string name="reg_img">reg background img</string>
+    <string name="regText">Registration</string>
+    <string name="user_name">Enter Full Name</string>
+    <string name="user_mail_icon">mail icon</string>
+    <string name="sign_mess">Already have account ?</string>
+</resources>
